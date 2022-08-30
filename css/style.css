@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+body {
+    font-family: "Varela Round", sans-serif;
+}
+
+.header {
+    background-color: white;
+}
+
+.habilidades {
+    background-color: #2aa9e1;
+}
+
+.projetos {
+    background-color: #2aa9e1;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.titulo-habilidade {
+    text-align: center;
+    background-color: #2aa9e1;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+.titulo-contato {
+    text-align: center;
+    background-color: white;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+#projeto {
+    text-align: center;
+    background-color: #2aa9e1;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+.carousel {
+    width: 1000px;
+}
+
+.navegacao {
+    margin-right: 100px;
+}
+
+.nav-item {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
